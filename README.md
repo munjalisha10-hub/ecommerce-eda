@@ -33,3 +33,7 @@ Files used:
 - Matplotlib
 - Seaborn
 
+## Project Report
+A detailed project report covering methodology, analysis, 
+and findings is available in "project report_isha munjal.pdf "
+
